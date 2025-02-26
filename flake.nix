@@ -12,7 +12,6 @@
       installPhase = ''
         mkdir -p $out
         cp -r $src/wallpapers $out/
-        cp -r $src/wallpapers-live $out/
         cp -r $src/avatars $out/
         cp -r $src/lockscreen $out/
         cp -r $src/icons $out/
