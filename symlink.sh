@@ -1,7 +1,9 @@
 #!/bin/sh
 
-DIRS="wallpapers wallpapers-live lockscreen icons avatars"
+DIRS="wallpapers wallpapers-live lockscreen icons avatars color-palettes"
 TARGET="$HOME/Pictures"
+
+ln -snf $HOME/assets/icons/dunst $HOME/.local/share/icons/dunst
 
 mkdir -p "$TARGET"
 
