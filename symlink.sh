@@ -6,7 +6,7 @@ set -e  # Exit on error
 
 # Configuration
 ASSETS_DIR=$(pwd)
-DIRS="wallpapers wallpapers-live lockscreen avatars color-palettes"
+DIRS="wallpapers wallpapers-live lockscreen avatars"
 TARGET="$HOME/Pictures"
 
 echo "Linking assets from: $ASSETS_DIR"
