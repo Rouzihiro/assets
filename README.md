@@ -1,6 +1,6 @@
 # 🖼️ Assets Repository
 
-A collection of high-quality assets for personal use, including wallpapers, avatars, lockscreen images, and icons. This repository is designed to be used with Nix and Home Manager for seamless integration into your system.
+A collection of high-quality assets for personal use and for my dotfiles, including wallpapers, avatars, lockscreen images, and icons. This repository is designed to be used with Nix and Home Manager for seamless integration into your system.
 
 ---
 
